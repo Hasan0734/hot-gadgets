@@ -57,3 +57,13 @@
     border-radius: 10px;
     box-shadow: 1px 1px 20px 1px #e0e0e0b8;
 }
+.cate .bottom-bg{
+    width: 190px;
+    border-radius: 10px;
+    background: linear-gradient(45deg,#ff9c35,#ffd019 );
+    height: 13px;
+    margin: auto;
+}
+.cate h1{
+text-align: center;
+}
