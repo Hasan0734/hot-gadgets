@@ -52,10 +52,14 @@
     padding: 30px;
 }
 .card{
+    cursor: pointer;
     padding: 13px;
     border: none;
     border-radius: 10px;
     box-shadow: 1px 1px 20px 1px #e0e0e0b8;
+}
+.cate {
+    margin-bottom: 100px;
 }
 .cate .bottom-bg{
     width: 190px;
@@ -63,5 +67,9 @@
     background: linear-gradient(45deg,#ff9c35,#ffd019 );
     height: 13px;
     margin: auto;
+}
+h3{
+    margin-top: 15px;
+    text-align: center;
 }
 
